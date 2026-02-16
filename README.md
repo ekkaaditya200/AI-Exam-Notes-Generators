@@ -27,6 +27,7 @@ This project leverages **Generative AI APIs** to help students create exam-ready
 * Tailwind CSS / CSS
 * Markdown Renderer
 * Mermaid.js / React Flow (for diagrams)
+* * Firebase Authentication
 
 ### 🛠 Backend
 
@@ -35,11 +36,18 @@ This project leverages **Generative AI APIs** to help students create exam-ready
 * MongoDB
 * Mongoose
 * JWT Authentication
+* JWT / Firebase Token Verification
 
 ### 🤖 AI Integration
 
 * Gemini API
 * Prompt Engineering for structured output
+
+### 💳 Payments
+
+* Stripe Checkout
+* Stripe Webhooks
+* Subscription-based feature access
 
 ---
 
