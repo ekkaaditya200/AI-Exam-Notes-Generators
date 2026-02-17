@@ -3,6 +3,7 @@ import Navbar from "../components/Navbar";
 import img from "../assets/img1.png";
 import Footer from "../components/Footer";
 import { useNavigate } from "react-router-dom";
+import { motion } from "motion/react";
 
 function Home() {
   const navigate = useNavigate();
@@ -139,3 +140,4 @@ function Feature({ icon, title, des }) {
 }
 
 export default Home;
+
